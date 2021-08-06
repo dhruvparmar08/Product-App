@@ -1,0 +1,17 @@
+table {
+    width: 100%;
+}
+
+.center_data {
+    margin: auto;
+    width: 90%;
+    margin-top: 20px;
+}
+
+img {
+    border-radius: 50%;
+}
+
+mat-icon {
+    cursor: pointer;
+}
